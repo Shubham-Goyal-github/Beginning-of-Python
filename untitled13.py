@@ -1,0 +1,12 @@
+s1="Shubham"
+s2="hero"
+print(s1+s2)
+print(s1*5)
+print(s1[0:6]+s2[-3]) 
+print('done')
+print(s1.count('h'))
+print(s1.find("bh"))
+print(max(s1))
+print(min(s2))
+print(s1.isupper())
+print(s1.isalpha())
